@@ -3,7 +3,7 @@
 ## Executive Summary
 This project is an end-to-end data pipeline and interactive macroeconomic dashboard designed to track Sustainable Development Goal (SDG) progress across the 22 states of the Arab region. By extracting and transforming a decade of longitudinal data, this tool visualizes structural economic shifts, focusing on key indicators such as Female Labor Force Participation and GDP per Capita Growth.
 
-**[View the Interactive Tableau Dashboard Here]**(https://public.tableau.com/views/ArabRegionSDGProgressTracker20132023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/ArabRegionSDGProgressTracker20132023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## ETL Architecture & Tech Stack
 * **Data Extraction:** Python (`wbgapi`, `pandas`)
